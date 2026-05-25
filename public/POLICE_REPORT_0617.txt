@@ -1,0 +1,107 @@
+================================================================================
+            KEPOLISIAN RESOR KOTA — UNIT INVESTIGASI KRIMINAL
+================================================================================
+                          LAPORAN RESMI KEJADIAN
+================================================================================
+
+No. Laporan  : KRK/LAP/2013-06-17/00842
+Tanggal      : 17 Juni 2013
+Dibuat Oleh  : Bripda R. Satria Wibowo (NRP 72041891)
+Atasan Piket : Kompol Budi Harsono
+Status       : AKTIF — DALAM PENYELIDIKAN
+
+────────────────────────────────────────────────────────────────────────────────
+I. RINGKASAN KEJADIAN
+────────────────────────────────────────────────────────────────────────────────
+
+Pada tanggal 17 Juni 2013 pukul 02.27 WIB, petugas keamanan gedung Menara
+Zenith — markas Aliansi Fajar (AF) di Jl. Gatot Subroto No. 88 — menemukan
+lima (5) orang pria yang tidak dapat menunjukkan identitas resmi dan berada di
+lantai B2 (ruang telekomunikasi internal) tanpa izin. Petugas keamanan
+membunyikan alarm dan menghubungi pos polisi terdekat.
+
+Patroli Unit Alfa (Brigadir Hendra Kurniawan & Brigadir Doni Prasetyo)
+tiba di lokasi pukul 02.31 WIB dan mengamankan kelima tersangka tanpa
+perlawanan. Tidak ada tembakan yang dilepaskan. Tidak ada korban jiwa.
+
+────────────────────────────────────────────────────────────────────────────────
+II. DATA TERSANGKA
+────────────────────────────────────────────────────────────────────────────────
+
+  No.  Nama Alias / Identitas Saat Ditangkap        Status Verifikasi
+  ---  ───────────────────────────────────────────  ───────────────────
+   1.  Jaka W. Mentari Jr. (KTP #JKM-7741-D)    Belum terverifikasi
+   2.  Budi L. Broto (KTP #BLB-5519-A)      Belum terverifikasi
+   3.  Eka R. Moran (KTP #ERM-3308-B)    Belum terverifikasi
+   4.  Vicky R. Gunawan (KTP #VRG-1122-C)   Belum terverifikasi
+   5.  Farhan A. Sutrisno (KTP #FAS-9901-F)       Belum terverifikasi
+
+Catatan: Seluruh tersangka tidak membawa dokumen identitas lokal. KTP AS
+yang ditemukan dalam kondisi tampak baru dan belum diverifikasi keasliannya.
+Kasus diteruskan ke Satuan Intelijen untuk pengecekan lebih lanjut.
+
+────────────────────────────────────────────────────────────────────────────────
+III. BARANG BUKTI YANG DISITA
+────────────────────────────────────────────────────────────────────────────────
+
+  Kode BB    Deskripsi                              Kondisi
+  ────────   ────────────────────────────────────   ──────────────────────
+  BB-01/A    Alat penyadap mini tipe RF-72 (x2)     Baru, terpasang sebagian
+  BB-01/B    Kamera mikro format 35mm               Baik, terdapat rol film
+  BB-01/C    Uang tunai pecahan $100                $5,300 total
+             Nomor seri: US9482001A — US9482053A    Berurutan (baru)
+  BB-01/D    Sarung tangan lateks hitam (5 pasang)  Baru, belum digunakan
+  BB-01/E    Buku agenda kulit hitam (1 buah)       Diteruskan ke Forensik
+  BB-01/F    Obeng presisi (set)                    Ditemukan di tas ransel
+  BB-01/G    Rol selotip hitam non-reflektif (3)    Sesuai teknik penyadap
+
+  CATATAN: Alat RF-72 merupakan perangkat penyadap frekuensi radio kelas
+  militer. Penggunaan sipil tanpa izin melanggar Pasal 32 UU Telekomunikasi.
+
+────────────────────────────────────────────────────────────────────────────────
+IV. KONDISI TEMPAT KEJADIAN PERKARA (TKP)
+────────────────────────────────────────────────────────────────────────────────
+
+  Lokasi     : Menara Zenith Lt. B2 — Ruang Server & Telekomunikasi
+  Akses Masuk: Kunci elektrik Panel B2-07 tampak dirusak dengan alat presisi
+  Tanda      : Tidak ada kaca pecah, tidak ada tanda kekerasan fisik
+  CCTV       : Kamera sudut barat-laut TIDAK AKTIF (dicatat sejak 01.44 WIB)
+  Catatan    : Petugas TI gedung dikonfirmasi tidak ada jadwal perbaikan CCTV
+
+────────────────────────────────────────────────────────────────────────────────
+V. KETERANGAN SINGKAT SAKSI
+────────────────────────────────────────────────────────────────────────────────
+
+  SAKSI-1: Tn. Rudi Hartono (Petugas Keamanan Malam Shift 2)
+  "Saya keliling rutin jam 02.15. Waktu sampai lantai B2, pintu panel terbuka
+  dan lampu di dalam sudah nyala. Saya dengar suara gesekan alat. Langsung
+  saya bunyikan alarm dan telepon polisi."
+
+  SAKSI-2: Ny. Sari Andini (Resepsionis Hotel Zenith lantai 1)
+  "Sekitar jam 23.00 malam ada tamu kamar 214 yang turun. Dua orang, pakaian
+  rapi, bawa tas laptop. Mereka keluar arah parkiran. Saya tidak tahu ke mana."
+
+────────────────────────────────────────────────────────────────────────────────
+VI. DISPOSISI AWAL
+────────────────────────────────────────────────────────────────────────────────
+
+  [ ] Pembobolan Gedung (Pasal 363 KUHP)
+  [ ] Kepemilikan Alat Penyadap Ilegal (Pasal 32 UU Telekomunikasi No. 36/1999)
+  [?] Keterlibatan Asing (diteruskan ke Satuan Intelijen)
+  [?] Koordinator Eksternal — DALAM PENYELIDIKAN
+
+────────────────────────────────────────────────────────────────────────────────
+VII. CATATAN LANJUTAN (DIISI PENYIDIK)
+────────────────────────────────────────────────────────────────────────────────
+
+  17 Jun 2013 — Barang bukti diserahkan ke Lab Forensik (tanda terima #FRN-2013-0844)
+  18 Jun 2013 — Buku agenda (BB-01/E) diserahkan ke unit analisis dokumen
+  19 Jun 2013 — PENTING: Satuan Intelijen menghubungi Kapolres; ada "permintaan"
+               agar investigasi "tidak diperluas ke luar konteks pembobolan"
+               (dicatat oleh Kompol Harsono — STATUS: DIRAHASIAKAN)
+
+================================================================================
+  DOKUMEN INI BERSIFAT RAHASIA — DILARANG DISEBARLUASKAN TANPA IZIN KAPOLRES
+================================================================================
+  Ditandatangani: Bripda R. Satria Wibowo          Pukul: 05.14 WIB, 17 Jun 2013
+================================================================================

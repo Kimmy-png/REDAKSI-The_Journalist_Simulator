@@ -1,0 +1,6 @@
+{
+  "name": "Redaksi: Journalist Simulator",
+  "description": "An investigative journalism game with a retro operating system aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

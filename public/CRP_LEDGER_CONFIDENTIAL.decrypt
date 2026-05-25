@@ -1,0 +1,89 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║         *** DECRYPT OUTPUT — FORENSIC ANALYSIS UNIT ***                     ║
+║         Nama File Asli : CRP_LEDGER_CONFIDENTIAL.enc                        ║
+║         Enkripsi       : AES-256-CBC (kunci diperoleh via surat perintah)   ║
+║         Didekripsi     : 22 Jun 2013, 14.32 WIB — Unit Siber Kejaksaan      ║
+║         Status         : LENGKAP — Integritas hash SHA-256 terverifikasi    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+════════════════════════════════════════════════════════════════════════════════
+   KOMITE PEMENANGAN KEMBALI PRESIDEN (KPKP)
+   BUKU KAS INTERNAL — DANA TAKTIS RAHASIA
+   Periode: Januari 2013 — Juni 2013
+   Bendahara: H.L.H. (inisial — teridentifikasi oleh penyidik)
+   Klasifikasi: SANGAT RAHASIA — TIDAK UNTUK DISTRIBUSI
+════════════════════════════════════════════════════════════════════════════════
+
+SALDO AWAL (01 Jan 2013)                                         $1,250,000.00
+────────────────────────────────────────────────────────────────────────────────
+
+PEMASUKAN:
+  Tgl         Sumber                             Jumlah (USD)    Referensi
+  ──────────  ─────────────────────────────────  ──────────────  ─────────────
+  15 Jan 2013 Kontribusi donor anonim (Batchir A)  200,000.00   KPKP-D-001
+  02 Feb 2013 Kontribusi donor anonim (Corp. TXL)  150,000.00   KPKP-D-002
+  18 Feb 2013 Transfer dari Rekening GdgAbu-7      500,000.00   GdgAbu-xfr-01
+  01 Mar 2013 Kontribusi donor korporat              75,000.00   KPKP-D-003
+  20 Mar 2013 Transfer dari Rekening GdgAbu-7      300,000.00   GdgAbu-xfr-02
+  10 Apr 2013 Kontribusi individu senior            50,000.00    KPKP-D-004
+  05 Mei 2013 Transfer dari Rekening GdgAbu-7      450,000.00   GdgAbu-xfr-03
+                                                  ──────────────
+  TOTAL PEMASUKAN                                $1,725,000.00
+
+────────────────────────────────────────────────────────────────────────────────
+PENGELUARAN TERVERIFIKASI (ada kwitansi):
+  Tgl         Deskripsi                          Jumlah (USD)    Ref. Kwitansi
+  ──────────  ─────────────────────────────────  ──────────────  ─────────────
+  20 Jan 2013 Iklan TV & Radio (agensi Primavid)   180,000.00   KWT-2013-001
+  10 Feb 2013 Survei opini (lembaga PolStat)         45,000.00  KWT-2013-002
+  25 Feb 2013 Logistik kampanye (daerah barat)       90,000.00  KWT-2013-003
+  15 Mar 2013 Honorarium penasihat komunikasi        30,000.00   KWT-2013-004
+  01 Apr 2013 Materi kampanye cetak                  55,000.00   KWT-2013-005
+  20 Apr 2013 Event rally publik (3 kota)           120,000.00   KWT-2013-006
+  10 Mei 2013 Polling & analisis data               40,000.00    KWT-2013-007
+  25 Mei 2013 Biaya operasional kantor               22,000.00   KWT-2013-008
+                                                  ──────────────
+  SUBTOTAL TERVERIFIKASI                           $582,000.00
+
+────────────────────────────────────────────────────────────────────────────────
+PENGELUARAN TANPA KWITANSI — "DANA TAKTIS KHUSUS":
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tgl         Deskripsi (Samar)                  Jumlah (USD)    Status
+  ──────────  ─────────────────────────────────  ──────────────  ─────────────
+  10 Feb 2013 Jasa konsultan khusus (anonim)       50,000.00    TANPA KWITANSI
+  01 Mar 2013 "Proyek Pengamanan Info-A"           75,000.00    TANPA KWITANSI
+  15 Mar 2013 Distribusi tunai via Xylos-Manuel    30,000.00    TANPA KWITANSI
+  02 Apr 2013 "Proyek Pengamanan Info-B"           80,000.00    TANPA KWITANSI
+  18 Apr 2013 Jasa pihak ketiga — OPS-B            30,000.00    TANPA KWITANSI
+  05 Mei 2013 Transfer cangkang Xylos             100,000.00    TANPA KWITANSI
+
+>>> 25 Mei 2013 DANA TAKTIS KHUSUS — Persetujuan Atas [kode: OPS-ZNT]
+               Transfer ke rek. cangkang Xylos    $25,000.00   !!! KUNCI !!!
+               Otorisasi: "W.H." (tanda paraf)
+               Keterangan: "Operasi Pengamanan Strategis Pemilu — RAHASIA"
+               Nomor seri uang: lihat rek. Xylos (US9482001A dst.)
+
+  10 Jun 2013 Cadangan operasional lanjutan       60,000.00    TANPA KWITANSI
+                                                  ──────────────
+  SUBTOTAL TANPA KWITANSI                         $450,000.00
+  (Catatan asli bendahara: "Dana taktis tidak boleh dilacak — ini perintah")
+                                                  ──────────────
+  TOTAL PENGELUARAN (keduanya)                  $1,032,000.00
+
+────────────────────────────────────────────────────────────────────────────────
+SALDO AKHIR (per 22 Jun 2013 — saat penyitaan)                  $943,000.00
+════════════════════════════════════════════════════════════════════════════════
+
+CATATAN DEKRIPSI — Unit Siber Kejaksaan:
+  [1] Dokumen ini terkunci di balik enkripsi militer-grade. Kunci diperoleh
+      dari hard disk yang disita dalam operasi 21 Juni 2013.
+  [2] Inisial "W.H." di baris OPS-ZNT cocok dengan inisial di NOTEBOOK_EXHIBIT_C
+      dan WHITEHOUSE_TELECOM_LOG. Identitas penuh: Kepala Staf Istana H.R.H.
+  [3] Kode "OPS-ZNT" = Operasi Zenith. Hubungkan dengan POLICE_REPORT_0617.txt
+  [4] $25.000 OPS-ZNT → rekening Xylos (XYLOS_BANK_TRANS.pdf) → tunai → BB-01/C
+      RANTAI BUKTI LENGKAP. Ini menghubungkan Istana langsung ke TKP.
+
+════════════════════════════════════════════════════════════════════════════════
+*** AKHIR DECRYPT OUTPUT — File ini bukti forensik digital. Jangan diubah. ***
+════════════════════════════════════════════════════════════════════════════════

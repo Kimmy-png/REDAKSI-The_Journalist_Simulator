@@ -1,0 +1,80 @@
+════════════════════════════════════════════════════════════════════════════════
+      GEDUNG ABU — PUSAT KOMUNIKASI RESMI
+      LOG PANGGILAN TELEPON — SISTEM PABX GEDUNG ABU v4.2
+════════════════════════════════════════════════════════════════════════════════
+      Periode     : 14 Juni 2013 — 17 Juni 2013
+      Dikeluarkan : 21 Juni 2013 atas Perintah Pengadilan No. PN-2013-174
+      Klasifikasi : RAHASIA — HANYA UNTUK PENGGUNAAN INVESTIGASI RESMI
+════════════════════════════════════════════════════════════════════════════════
+
+KUNCI DIREKTORI EKSTENSI INTERNAL:
+  Ext. 7741-A  →  Ruang Oval (Kepresidenan)
+  Ext. 7741-B  →  Meja Kerja Kepala Staf (R.J. Hartono)     [<<< KUNCI]
+  Ext. 7741-C  →  Penasehat Hukum Presiden (J.W. Dean III)
+  Ext. 7741-D  →  Sekretaris Kabinet
+  Ext. 7742-XX →  Departemen Hukum / Kejaksaan (eksternal)
+  Ext. 8800-XX →  Saluran luar / publik
+
+════════════════════════════════════════════════════════════════════════════════
+LOG DETAIL — PANGGILAN MASUK / KELUAR
+════════════════════════════════════════════════════════════════════════════════
+
+[14 Jun 2013 — Jumat]
+────────────────────────────────────────────────────────────────────────────────
+Waktu       Arah  Dari (Ext/No.)          Ke (Ext/No.)         Durasi  Ket.
+──────────  ────  ──────────────────────  ───────────────────  ──────  ─────────
+09.14 WIB   OUT   7741-B (Haldeman)       7742-CIA-DIR          08:22  Normal
+10.05 WIB   IN    8800-EXT-221 (Luar)     7741-C (Dean)         04:11  Normal
+11.30 WIB   OUT   7741-A (Oval)           7741-B (Haldeman)     02:45  Normal
+14.20 WIB   IN    8800-EXT-441 (Luar)     7741-B (Haldeman)     11:07  !KUNCI!
+                  [Identif.: Hotel Zenith, Kamar 214 — G.G. Liddy]
+16.45 WIB   OUT   7741-B (Haldeman)       7742-CIA-DIR          05:33  Normal
+
+[15 Jun 2013 — Sabtu]
+────────────────────────────────────────────────────────────────────────────────
+08.30 WIB   OUT   7741-B (Haldeman)       8800-EXT-441 (Luar)   03:19  !KUNCI!
+                  [Tujuan: Hotel Zenith Kamar 214 — dikonfirmasi resi hotel]
+09.12 WIB   IN    7741-C (Dean)           7741-B (Haldeman)     06:04  Normal
+13.00 WIB   OUT   7741-A (Oval)           7741-B (Haldeman)     01:58  Normal
+17.45 WIB   IN    8800-EXT-441 (Luar)     7741-B (Haldeman)     15:30  !KUNCI!
+                  [Identif.: Panggilan dari payphone — area dekat Menara Zenith]
+                  [Catatan teknis: rekaman tersedia — ref. WIRE_AUDIO_0616.wav]
+21.10 WIB   OUT   7741-B (Haldeman)       7741-A (Oval)         03:27  Normal
+
+[16 Jun 2013 — Minggu]
+────────────────────────────────────────────────────────────────────────────────
+08.00 WIB   OUT   7741-A (Oval)           7741-B (Haldeman)     00:48  Normal
+11.20 WIB   IN    8800-EXT-441 (Luar)     7741-B (Haldeman)     08:55  !KUNCI!
+                  [Identif.: Hotel Zenith Kamar 214 — Terakhir sebelum op.]
+                  [Catatan: Rekaman parsial tersedia — ref. WIRE_AUDIO_0616.wav]
+18.00 WIB   OUT   7741-B (Haldeman)       7741-C (Dean)         05:12  Normal
+23.30 WIB   IN    8800-PAYPHONE-ZNT       7741-B (Haldeman)     00:55  !KUNCI!
+                  [Nomor payphone: dekat pintu masuk Menara Zenith Lt. 1]
+                  [Durasi singkat — kemungkinan konfirmasi "hijau"]
+
+[17 Jun 2013 — Senin — HARI PENANGKAPAN]
+────────────────────────────────────────────────────────────────────────────────
+02.47 WIB   IN    8800-UNKNOWN-01          7741-B (Haldeman)    04:32  !!!PENTING!!!
+                  [Nomor tidak teridentifikasi — penelusuran: payphone Jl. Gajah Mada]
+                  [Waktu: 16 menit setelah penangkapan di Menara Zenith]
+                  [Kemungkinan: laporan situasi darurat dari lapangan]
+03.15 WIB   OUT   7741-B (Haldeman)        7741-C (Dean)        07:44  !!!PENTING!!!
+                  [Dean kemudian bersaksi: "Haldeman memberitahu saya jam 3 pagi
+                   bahwa 'ada masalah besar di Zenith'"]
+04.02 WIB   OUT   7741-B (Haldeman)        7742-CIA-DIR         09:11  !!!PENTING!!!
+                  [Akan menjadi dasar MEMO CIA tertanggal 23 Juni]
+09.30 WIB   OUT   7741-A (Oval)            7741-B (Haldeman)    11:05  Normal
+                  [Lihat: TAPES_OVAL_OFFICE_0623.mp3 untuk konteks lanjutan]
+
+════════════════════════════════════════════════════════════════════════════════
+CATATAN SILANG BUKTI:
+  • Nomor ekstensi 7741-B dari log ini = "ext. W.H." dalam NOTEBOOK_EXHIBIT_C
+  • Panggilan Hotel Zenith Kamar 214 menghubungkan Haldeman → Hunt/Liddy → TKP
+  • Panggilan 02.47 WIB tgl 17 Jun terjadi 16 menit pasca penangkapan McCord dkk.
+  • Rekaman oval office TAPES_OVAL_OFFICE_0623.mp3 dikumpulkan 6 hari kemudian
+
+>>> STATUS BUKTI: PRIMER — RANTAI KOMANDO TERHUBUNG LANGSUNG KE ISTANA <<<
+════════════════════════════════════════════════════════════════════════════════
+  Dok. disiapkan oleh: Unit Teknis Telekomunikasi — Kejaksaan Agung
+  Ref. Surat Perintah: PN-2013-174 / Hakim: R. Soepardjo
+════════════════════════════════════════════════════════════════════════════════
